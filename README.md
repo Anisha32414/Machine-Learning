@@ -39,6 +39,9 @@ This repository contains practical implementations of fundamental Machine Learni
 * Matplotlib
 * Scikit-learn
 
-## Author
+## Data-sets used from Scikit-learn
 
-**Anisha Rawat**
+* fetch_california_housing
+* load_breast_cancer
+* load_iris
+* make_blobs
